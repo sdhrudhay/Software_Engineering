@@ -1,2 +1,3 @@
 # Software_Engineering
-This repository contains content related to detailed study of engineering to the design, development and maintenance of software.
+This is a development process design of a project on optical character recognition software.<br>
+The modeling of the web application and various stages during development are portrayed in the above document.
